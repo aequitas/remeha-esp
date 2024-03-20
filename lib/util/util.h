@@ -1,0 +1,1 @@
+uint16_t CRC16_Modbus(uint8_t *buf, int len);
